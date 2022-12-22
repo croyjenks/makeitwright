@@ -1,5 +1,5 @@
 __name__ = "parsers"
-__author__ = 'me'
+__author__ = 'Chris R. Roy, Song Jin Research Group, Dept. of Chemistry, University of Wisconsin-Madison'
 __version__ = 0.0
 
 from psutil import virtual_memory
